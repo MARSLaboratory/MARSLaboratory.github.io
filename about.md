@@ -18,4 +18,4 @@ Our activities span:
 **Contact**  
 📍 Department of Industrial Engineering  
 📧 info@mars-lab.org  
-🌐 [GitHub](https://github.com/mars-laboratory)
+🌐 [GitHub](https://github.com/MARSLaboratory)
