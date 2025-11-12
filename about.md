@@ -3,9 +3,19 @@ layout: default
 title: About
 ---
 
-# Chi siamo
-AI Lab nasce come iniziativa di ricerca per esplorare il confine tra simulazione fisica e apprendimento automatico.
+# About MARS Laboratory
 
-**Contatti**  
-📧 info@ai-lab.org  
-🌐 [GitHub](https://github.com/ai-lab)
+**MARS Laboratory** is a research group dedicated to advancing robotic additive manufacturing through **intelligent process modeling, monitoring, and control**.  
+We aim to bridge the gap between advanced manufacturing, artificial intelligence, and automation.
+
+Our activities span:
+- Development of **digital twins** for additive processes  
+- Design of **AI-assisted sensing architectures**  
+- Creation of **adaptive control systems** for industrial robots
+
+---
+
+**Contact**  
+📍 Department of Industrial Engineering  
+📧 info@mars-lab.org  
+🌐 [GitHub](https://github.com/mars-laboratory)
